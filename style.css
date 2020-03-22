@@ -1,0 +1,26 @@
+
+.headd{
+    background-color: rgb(6, 116, 48);
+    color: rgb(247, 243, 243);
+    border: rgb(20, 20, 19);
+    text-align: center;
+    margin-left: 100px;
+    padding: 20px;
+    border-radius: 8px;
+    
+  
+}
+.mymargin{
+    margin: 5px;
+}
+.mymargin2{
+    margin: 2px;
+}
+.row{
+    padding-left: 20px;
+    padding-bottom: 20px;
+    scroll-padding-right: 20px;
+}
+.container{
+    background-image: linear-gradient(200 155 214);
+}
